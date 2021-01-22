@@ -1,2 +1,0 @@
-# Tomaka-duels
-For Duels
